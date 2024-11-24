@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aarnoni
 - 👀 I’m interested in the Bible, Computer Science and Maths, jigsaw puzzles, piano and so on
 - 🧐 Avid learner
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 3
 - 📫 How to reach me ...
 
 <!---
