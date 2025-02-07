@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @aarnoni
-- 👀 I’m interested in the Bible, Computer Science and Maths, jigsaw puzzles, piano and so on
-- 🧐 Avid learner
-- 🌱 I’m currently learning Python 3
-- 📫 How to reach me ...
 
 <!---
 aarnoni/aarnoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
